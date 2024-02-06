@@ -1,0 +1,23 @@
+/*
+File: style.css
+Author: Varga Lilla
+Copyright: 2024, Varga Lilla
+Group: SZOFT I-1-N
+Date: 2024-02-06
+Github: https://github.com/Lilla624/
+Licenc: GNU GPL
+*/
+
+.container {
+    margin: 5%;
+}
+
+.table_001 {
+    border-collapse: collapse;
+}
+
+.table_001, td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
