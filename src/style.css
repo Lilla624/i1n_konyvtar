@@ -13,7 +13,7 @@ Licenc: GNU GPL
 }
 
 .table_001 {
-    border-collapse: collapse;
+    border-collapse: separate;
 }
 
 .table_001, td, th {
@@ -21,3 +21,6 @@ Licenc: GNU GPL
     padding: 10px;
 }
 
+td, th {
+    border-radius: 10px;
+}
